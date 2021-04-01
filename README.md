@@ -1,3 +1,3 @@
 # LFI-Lab
-
- `php -S localhost:4444`
+run:
+  `php -S localhost:4444`
